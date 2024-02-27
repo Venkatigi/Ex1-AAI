@@ -1,7 +1,7 @@
-<H3>Name:Venkatesh E</H3>
-<H3>Register No:212221230119</H3>
+<H3>Name: Venkatesh E</H3>
+<H3>Register No: 212221230119</H3>
 <H3>Experiment 1</H3>
-<H3>Date:26.02.2024</H3>
+<H3>Date: 26.02.2024</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## AIM :
@@ -119,12 +119,11 @@ plt.show()
 ```
 
 ## OUTPUT:
-![op1](https://github.com/PAARKAVYB/Ex1-AAI/assets/93509383/efbba958-d148-49a9-9de2-fcb3e3e18384)
-![op2](https://github.com/PAARKAVYB/Ex1-AAI/assets/93509383/53f4dad6-c5bc-4f59-88de-4ee411fd9936)
-![op3](https://github.com/PAARKAVYB/Ex1-AAI/assets/93509383/9afea35e-82ff-49c4-b165-17328ecbedac)
+![Screenshot 2024-02-27 060150](https://github.com/Venkatigi/Ex1-AAI/assets/94154252/e75a9c63-b4c3-4921-b767-de1cc0215d7c)
+![image](https://github.com/Venkatigi/Ex1-AAI/assets/94154252/97f83b71-07cb-43be-af77-3d445d7d30f0)
 
 ## GRAPH:
-![op4](https://github.com/PAARKAVYB/Ex1-AAI/assets/93509383/d75845b2-c7e5-493b-b4d2-bee7c4ee99fe)
+![image](https://github.com/Venkatigi/Ex1-AAI/assets/94154252/300aa8e5-549e-48ec-a44f-c71f416b7abe)
 
 ## RESULT:
 Thus a Bayesian Network is generated using Python.
